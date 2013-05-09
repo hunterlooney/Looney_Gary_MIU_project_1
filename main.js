@@ -1,7 +1,7 @@
 //Gary W. Hunter Looney
-//Project 4
+//Project 1
 //Add Character Java
-//Term 1304
+//Term 1305
 
 var cname = document.getElementById("cname");
 var sex = document.getElementById("sex");
